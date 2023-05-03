@@ -1,0 +1,64 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    background-color:black;
+}
+.signUp{
+ height:720px ;
+ width: 360px;
+ margin: auto;
+ background-color:grey;
+ border-radius: 10px;
+ border-style: outset;
+
+}
+.login{
+  height: 380px ;
+ width: 360px;
+ margin: auto;
+ background-color:grey;
+ border-radius: 10px;
+ border-style: groove;
+ margin-top: 50px;
+}
+h1{
+  text-align: center;
+  padding-top: 15px;
+}
+h4{
+  text-align: center;
+}
+form{
+  width: 300px;
+  margin-left: 20px;
+
+}
+form label{
+  display: flex;
+margin-top: 20px;
+font-size: 19px;
+}
+form input{
+  width: 100%;
+  padding: 5px;
+  border-radius: 8px;
+  outline: none;
+
+}
+.button{
+  width: 310px;
+  margin-top: 20px;
+  text-align: center;
+  height: 30px;
+  background-color:aquamarine;
+  font-size: 19px;
+}
+.text1{
+  text-align: center;
+  padding-top: 20px;
+}
+.text2{
+  text-align: center;
+  padding-top: 15px;
+}
